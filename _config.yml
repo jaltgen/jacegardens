@@ -28,7 +28,7 @@ url: "http://jace.pub/" # the base hostname & protocol for your site, e.g. http:
 # your social media links etc
 #######################################################################
 
-heading:jace.pub # Change this
+heading: jace.pub # Change this
 copyright:
   year: 2022
   msg: Jace # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
