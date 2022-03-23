@@ -175,7 +175,7 @@ iframe,
 hr,
 {
   margin: 0;
-  padding: 0; 
+  padding: 0;
 }
 
 ul {
@@ -247,7 +247,7 @@ pre {
 
 body {
   color: var(--text-main);
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: 400;
   line-height: 1.5; }
 
@@ -3887,7 +3887,7 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 3rem 8rem; } 
+      padding: 3rem 8rem; }
   .note-cards .content {
     width: 88%; }
     }
