@@ -4,4 +4,4 @@ notetype : feed
 date : 25-03-2022
 ---
 
-This relates to my [[Dog]].
+Kalle is one of my [[Animals]]

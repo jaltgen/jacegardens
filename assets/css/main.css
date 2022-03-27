@@ -247,7 +247,7 @@ pre {
 
 body {
   color: var(--text-main);
-  font-size: 1.5em;
+  font-size: 1em;
   font-weight: 400;
   line-height: 1.5; }
 
@@ -2471,7 +2471,8 @@ a.navbar-item,
   flex-grow: 0;
   flex-shrink: 0; }
   .navbar-item img {
-    max-height: 1.75rem; }
+    max-height: 1.75rem;
+ }
   .navbar-item.has-dropdown {
     padding: 0; }
   .navbar-item.is-expanded {

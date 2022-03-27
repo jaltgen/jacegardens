@@ -1,8 +1,7 @@
 ---
-aliases: []
-tags:  []
-cdate: 2022-03-24 12:32 
-mdate: Thursday 24th March 2022 12:32:10 
+title : _Learning
+notetype : feed
+date : 29-03-2022
 ---
 
 
