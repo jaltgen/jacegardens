@@ -1,5 +1,5 @@
 ---
-title : _Learning
+title : Learning
 notetype : feed
 date : 29-03-2022
 ---

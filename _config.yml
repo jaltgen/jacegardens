@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "localhost:4000/" # the subpath of your site, e.g. /blog
 url: "http://jace.pub/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
@@ -94,7 +94,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
+      permalink: /:collection/:title
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
