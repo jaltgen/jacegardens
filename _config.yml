@@ -115,18 +115,19 @@ sass:
   style: compressed
 
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: Post
-      permalink: /posts/:title
-      content-type: post
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: Post
+#      permalink: /posts/:title
+#      content-type: post
   - scope:
       path: ""
       type: notes
     values:
       layout: Post
+      permalink: /notes/:title
       content-type: notes
 
 
