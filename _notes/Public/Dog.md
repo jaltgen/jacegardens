@@ -1,6 +1,6 @@
 ---
 title : Dog
-notetype : feed
+notetype : hidden
 date : 25-03-2022
 ---
 
