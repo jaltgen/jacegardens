@@ -1,6 +1,6 @@
 ---
 title: Something
-notetype : feed
+notetype : hidden
 date : 28-03-2022
 ---
 
