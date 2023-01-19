@@ -1,6 +1,6 @@
 ---
 title : Learning
-notetype : feed
+notetype : hidden
 date : 29-03-2022
 ---
 
