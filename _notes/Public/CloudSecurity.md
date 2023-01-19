@@ -1,4 +1,10 @@
 
+---
+title : Cloud Security
+notetype : feed
+date : 19-01-2023
+---
+
 # 💡 Concepts
 
 Securing applications in the cloud must go beyond having adequate user identification and authorisation via a public HTTPs endpoint. 
